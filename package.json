@@ -1,0 +1,23 @@
+{
+  "name": "pieces-of-eight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burke-md/pieces-of-eight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burke-md/pieces-of-eight/issues"
+  },
+  "homepage": "https://github.com/burke-md/pieces-of-eight#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "hardhat": "^2.9.3"
+  }
+}
