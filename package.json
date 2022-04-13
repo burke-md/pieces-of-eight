@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/burke-md/pieces-of-eight#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
     "@openzeppelin/contracts": "^4.5.0",
+    "ethers": "^5.6.2",
     "hardhat": "^2.9.3"
   }
 }
